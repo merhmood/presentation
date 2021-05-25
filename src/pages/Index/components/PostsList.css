@@ -1,0 +1,32 @@
+.container-postlist{
+    width: 75rem;
+    float: left;
+}
+h3{
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+.PostList {
+    width: 16rem;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 1rem;
+    padding-bottom: 0.4rem;
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.17);
+    float: left;
+}
+.PostList img{
+    width: 16rem;
+    height: 14rem;
+    object-fit: cover;
+}
+.PostList h4{
+    width: 14rem;
+    margin-left: 1rem;
+}
+.PostList p{
+    font-size: 0.55rem;
+    line-height: 1rem;
+    margin-left: 1rem;
+    width: 14rem;
+}
