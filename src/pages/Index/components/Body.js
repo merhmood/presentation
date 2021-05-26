@@ -11,7 +11,7 @@ const posts = [
         id:1,
         img:'https://images.unsplash.com/photo-1542309174-26c691a6d0b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1834&q=80',
         title:'Grand Canyon National Park Public Health Update',
-        details: 'he health and safety of our visitors, employees, volunteers, and partners continues to be paramount. At Grand Canyon National Park, our operational approach will be to examine each facility function and service provided to ensure those operations comply with current public health guidance and will be regularly monitored. We continue to work closely with the NPS Office of Public Health using CDC guidance to ensure public and workspaces are safe and clean for visitors, employees, partners and volunteers.',
+        details: 'the health and safety of our visitors, employees, volunteers, and partners continues to be paramount. At Grand Canyon National Park, our operational approach will be to examine each facility function and service provided to ensure those operations comply with current public health guidance and will be regularly monitored. We continue to work closely with the NPS Office of Public Health using CDC guidance to ensure public and workspaces are safe and clean for visitors, employees, partners and volunteers.',
     },
     {
         id:2,
