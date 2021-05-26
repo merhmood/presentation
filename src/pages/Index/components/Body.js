@@ -42,7 +42,7 @@ const Body = () => {
     return (
         <div className='container'>
             <Jumbotron />
-            <PostsList postlist={posts} /> 
+            <PostsList key={posts.id} postlist={posts} /> 
             <Alert />
             <Subscribe />
         </div>
